@@ -1,5 +1,5 @@
 
-# Git & GitHub – Developer Guide
+# Git & GitHub 
 
 ## Introduction
 
